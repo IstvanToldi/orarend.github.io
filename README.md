@@ -4,7 +4,6 @@
 
 <head>
   <link rel="stylesheet" href="orarend.css">
-   <title>Órarend</title>
 </head>
 
 <body>
